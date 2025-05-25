@@ -17,10 +17,9 @@ Enter your favorite anime title and get similar recommendations based on synopsi
 
 ---
 
-## 📸 Screenshot
+## 📸 Like This!
 
-> _Insert a screenshot of your app here_  
-> You can embed with: ![ezgif com-video-to-gif-converter (4)](https://github.com/user-attachments/assets/57456863-b7d1-4dcf-b055-c4a3a896a2e4)
+![ezgif com-video-to-gif-converter (4)](https://github.com/user-attachments/assets/57456863-b7d1-4dcf-b055-c4a3a896a2e4)
 
 
 ---
